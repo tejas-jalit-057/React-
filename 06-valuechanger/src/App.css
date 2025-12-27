@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+h1{
+  align-items: center;
+  justify-content: center;
+}
+div {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+button{
+  padding: 10xp 20px;
+  background-color: rgb(96, 96, 36);
+}
+
